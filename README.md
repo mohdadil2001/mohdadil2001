@@ -5,7 +5,7 @@
 
 ## I'm a Student, Developer, and Learner!
 
-- 🔭 I’m currently working on a [React][website]!
+- 🔭 I’m currently working on  [self][website]!
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learning to more & more.
