@@ -1,5 +1,5 @@
 ### Hi there, I'm Mohd Adil - aka [cyberboy][website] 👋
-![Twitter Follow](https://img.shields.io/twitter/follow/adilkhan7676?color=1DA1F2&logo=Twitter&style=for-the-badge)(https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadilkhan7676&screen_name=adilkhan7676)
+[![Twitter Follow](https://img.shields.io/twitter/follow/adilkhan7676?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadilkhan7676&screen_name=adilkhan7676)
 
 ## I'm a Student, Developer, and Learner!
 
@@ -35,7 +35,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][instagram]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][instagram]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][instagram]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][[instagram]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][instagram]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][instagram]
 
 <br />
