@@ -1,5 +1,7 @@
 ### Hi there, I'm Mohd Adil - aka [cyberboy][website] 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/adilkhan7676?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadilkhan7676&screen_name=adilkhan7676)
+</br>
+[![HitCount](http://hits.dwyl.com/mohdadil2001/mohdadil2001.svg)](http://hits.dwyl.com/mohdadil2001/mohdadil2001)
 
 ## I'm a Student, Developer, and Learner!
 
